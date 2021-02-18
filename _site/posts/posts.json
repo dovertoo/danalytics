@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, danalytics. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Dan Overtoom",
+        "url": "https://twitter.com/danovertoom"
       }
     ],
     "date": "2021-02-17",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis is a test post!\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-02-17T19:19:02-05:00",
-    "input_file": {}
+    "last_modified": "2021-02-17T20:10:02-05:00",
+    "input_file": "welcome.utf8.md"
   }
 ]

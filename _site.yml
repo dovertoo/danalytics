@@ -1,7 +1,7 @@
-name: "blog_init"
+name: "danalytics-blog"
 title: "danalytics"
 description: |
-  danalytics
+  Exploring lacrosse and other things that interest me through an analytical lens with R.
 output_dir: "_site"
 navbar:
   right:
@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fa fa-rss
+      href: index.xml
 output: distill::distill_article
