@@ -1,9 +1,32 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Follow along with my exploration of data with `R`
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Dan Overtoom
+
+* Bachelor's of Science Degree in Mathematics from University of Maryland Baltimore County (UMBC) where I discovered my interest in anything and everything to do with data and analysis
+* Discovered `R` by accident when I took an *Environmental Statistics* class that had nothing to do with animal or ecosystem or climate data sets and everything to do with *Discovering R through Statistics*
+* Life long sports fan and enthusiast. Go Ravens and Orioles and Whipsnakes and Retrievers and Terps. Better at watching than playing but that has never stopped me from getting out there. 
+* Lover of the intersection of numbers and sports in the form of Fantasy Sports. Which lead me back to `R` as I discovered the world of *Fantasy Football Twitter* and the fascinating work that many are doing using publicly available data sets to bring analysis and statistical insight beyond the basic boxscore.
+* Avid Lacrosse fan with a strong interest in **Growing The Game** by building upon the amazing work of so many in the lacrosse community. 
+* I enjoy exploring the outdoors of Maryland and the surronding areas with my girlfriend Natalie. We also enjoy exploring the food and beer and wine that the area has to offer. Mexican food and sour beer recommendations are highly encouraged.
+
+## Goals of this blog
+
+A personal goal of mine is to grow my data analysis skills. I feel that the best way to do that is through this blog. The process of creating this blog through `Distill` for `R` alone has taught me a great deal. I plan to explore data sets, re-create data visualizations, and thoroughly analyze questions that interest me using the R language. Anything that I learn that is worth sharing will be compiled here as a blog post or a series of blog posts. The first area I plan on diving into is lacrosse and fantasy lacrosse statistics. Please join me in my journey through `R` and data analysis and feel free to join in, offer advice or ask questions of your own that arise from this blog. Details on the resources that help me along this journey and ways to stay in touch with me are included below.
+
+## It Takes A Village
+
+This blog and everything I do in it would not be possible with out the [#rstats](https://twitter.com/hashtag/rstats) community and the many people within it that share their hard work so that others may learn. There are too many people to thank and highlight individually for their guidance and inspiration, so I encourage you to explore the depths on your own. Nonetheless, I will attempt to keep a running list of people and resources that have helped me along my journey:
+
+
+## Contact
+
+Best way to reach me is on Twitter [\@danovertoom](https://twitter.com/danovertoom). Questions, thoughts, comments, chirps and anything in between are welcomed and encouraged.
+

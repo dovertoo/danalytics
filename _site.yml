@@ -1,7 +1,7 @@
 name: "danalytics-blog"
 title: "danalytics"
 description: |
-  Exploring lacrosse and other things that interest me through an analytical lens with R.
+  Exploring lacrosse and other things of interest through an analytical lens with R.
 output_dir: "_site"
 navbar:
   right:
