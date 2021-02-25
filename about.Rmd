@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Goals of this blog
 
-A personal goal of mine is to grow my data analysis skills. I feel that the best way to do that is through this blog. The process of creating this blog through `Distill` for `R` alone has taught me a great deal. I plan to explore data sets, re-create data visualizations, and thoroughly analyze questions that interest me using the R language. Anything that I learn that is worth sharing will be compiled here as a blog post or a series of blog posts. The first area I plan on diving into is lacrosse and fantasy lacrosse statistics. Please join me in my journey through `R` and data analysis and feel free to join in, offer advice or ask questions of your own that arise from this blog. Details on the resources that help me along this journey and ways to stay in touch with me are included below.
+A personal goal of mine is to grow my data analysis skills. I feel that the best way to achieve this goal is through this blog. The process of creating this blog through `Distill` for `R` alone has taught me a great deal. I plan to explore data sets, create data visualizations, and thoroughly analyze questions that interest me using the R language. Anything that I learn that is worth sharing will be compiled here as a blog post or a series of blog posts. The first area I plan on diving into is lacrosse and fantasy lacrosse statistics. Please join me in my journey through `R` and data analysis and feel free to join in, offer advice or ask questions of your own that arise from this blog. Details on the resources that help me along this journey and ways to stay in touch with me are included below.
 
 ## It Takes A Village
 
