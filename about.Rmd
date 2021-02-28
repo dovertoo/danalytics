@@ -1,7 +1,7 @@
 ---
 title: "About this blog"
 description: |
-  Follow along with my exploration of data with `R`
+  Follow along with my exploration of data through `R`
 ---
 
 ```{r setup, include=FALSE}
@@ -10,8 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Dan Overtoom
 
-* Bachelor's of Science Degree in Mathematics from University of Maryland Baltimore County (UMBC) where I discovered my interest in anything and everything to do with data and analysis
-* Discovered `R` by accident when I took an *Environmental Statistics* class that had nothing to do with animal or ecosystem or climate data sets and everything to do with *Discovering R through Statistics*
+* Bachelor's of Science Degree in Mathematics from University of Maryland Baltimore County (UMBC) where I discovered my interest in anything and everything to do with data and analysis.
+* Discovered `R` by accident when I took an *Environmental Statistics* class that had nothing to do with animal or ecosystem or climate data sets and everything to do with *Discovering R through Statistics*.
 * Life long sports fan and enthusiast. Go Ravens and Orioles and Whipsnakes and Retrievers and Terps. Better at watching than playing but that has never stopped me from getting out there. 
 * Lover of the intersection of numbers and sports in the form of Fantasy Sports. Which lead me back to `R` as I discovered the world of *Fantasy Football Twitter* and the fascinating work that many are doing using publicly available data sets to bring analysis and statistical insight beyond the basic boxscore.
 * Avid Lacrosse fan with a strong interest in **Growing The Game** by building upon the amazing work of so many in the lacrosse community. 
