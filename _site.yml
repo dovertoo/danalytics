@@ -2,16 +2,9 @@ name: "danalytics-blog"
 title: "danalytics"
 description: |
   Exploring lacrosse and other things of interest through an analytical lens with R.
-theme: theme.css
-collections:
-  posts:
-    share: [twitter, linkedin]
+base_url: https://danalytics.blog
 output_dir: "_site"
-twitter:
-  site: "@danovertoom"
 navbar:
-  left:
-    search: true
   right:
     - text: "Home"
       href: index.html

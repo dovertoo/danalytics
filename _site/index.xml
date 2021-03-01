@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>danalytics</title>
+    <link>https://danalytics.blog</link>
+    <atom:link href="https://danalytics.blog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Exploring lacrosse and other things of interest through an analytical lens with R.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Introducing: Fantasy Lacrosse 2020 in Review</title>
+      <dc:creator>Dan Overtoom</dc:creator>
+      <link>https://danalytics.blog/posts/2021-02-21-introducing-fantasy-lacrosse-2020-in-review</link>
+      <description>An overview of the 2020 Fantasy Lacrosse Season</description>
+      <guid>https://danalytics.blog/posts/2021-02-21-introducing-fantasy-lacrosse-2020-in-review</guid>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://danalytics.blog/posts/2021-02-21-introducing-fantasy-lacrosse-2020-in-review/figures/game_results.png" medium="image" type="image/png" width="873" height="702"/>
+    </item>
+  </channel>
+</rss>
