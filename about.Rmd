@@ -12,10 +12,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Bachelor's of Science Degree in Mathematics from University of Maryland Baltimore County (UMBC) where I discovered my interest in anything and everything to do with data and analysis.
 * Discovered `R` by accident when I took an *Environmental Statistics* class that had nothing to do with animal or ecosystem or climate data sets and everything to do with *Discovering R through Statistics*.
-* Life long sports fan and enthusiast. Go Ravens and Orioles and Whipsnakes and Retrievers and Terps. Better at watching than playing but that has never stopped me from getting out there. 
+* Life long sports fan and enthusiast. Go Ravens and Whipsnakes and Retrievers and Terps and Orioles. Better at watching than playing but that has never stopped me from getting out there. 
 * Lover of the intersection of numbers and sports in the form of Fantasy Sports. Which lead me back to `R` as I discovered the world of *Fantasy Football Twitter* and the fascinating work that many are doing using publicly available data sets to bring analysis and statistical insight beyond the basic boxscore.
 * Avid Lacrosse fan with a strong interest in **Growing The Game** by building upon the amazing work of so many in the lacrosse community. 
-* I enjoy exploring the outdoors of Maryland and the surronding areas with my girlfriend Natalie. We also enjoy exploring the food and beer and wine that the area has to offer. Mexican food and sour beer recommendations are highly encouraged.
+* I enjoy exploring the outdoors of Maryland and the surrounding areas with my girlfriend Natalie. We also enjoy exploring the restaurants and breweries that the area has to offer. Taco and breakfast food recommendations are highly encouraged.
 
 ## Goals of this blog
 
@@ -25,6 +25,11 @@ A personal goal of mine is to grow my data analysis skills. I feel that the best
 
 This blog and everything I do in it would not be possible with out the [#rstats](https://twitter.com/hashtag/rstats) community and the many people within it that share their hard work so that others may learn. There are too many people to thank and highlight individually for their guidance and inspiration, so I encourage you to explore the depths on your own. Nonetheless, I will attempt to keep a running list of people and resources that have helped me along my journey:
 
+* Thomas Mock's [The Mockup Blog]() - great resource for launching a Distill blog, using images in plots and tables and so much more
+* The fantasy football Twitter community - so many great people are putting out great work that inspired me to get back into R
+     + nflfastR by [Ben Baldwin](https://twitter.com/benbbaldwin) and [Sebastian](https://twitter.com/mrcaseb) has inspired some awesome NFL data visualizations and analysis
+     + One particular project that inspired me was [Josh Hornsby](https://twitter.com/Josh_ADHD)'s awesome Shiny App for the annual Scott Fish Bowl (check out [Fantasy Cares](https://fantasycares.net/))
+* The R community puts out amazing documentation on just about anything you can think of. I highly encourage you to go on a voyage of discovery if you have any interest in learning `R`
 
 ## Contact
 

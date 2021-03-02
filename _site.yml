@@ -3,8 +3,12 @@ title: "danalytics"
 description: |
   Exploring lacrosse and other things of interest through an analytical lens with R.
 base_url: https://danalytics.blog
+collections:
+  posts:
+    share: [twitter, linkedin]
 output_dir: "_site"
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
