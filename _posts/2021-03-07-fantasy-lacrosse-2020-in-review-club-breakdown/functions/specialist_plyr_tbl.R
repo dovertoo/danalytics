@@ -42,10 +42,10 @@ specialist_plyr_tbl <- function(club_selec, num_faceoff, num_goalie, ...){
                TotalCausedTurnovers = "Caused Turnovers",
                TotalSaves = "Saves",
                TotalGoalsAgainst = "Goals Against",
-               AverageSavePercentage = "Save %",
+               AverageSavePercentage = "Save % PG",
                TotalFaceoffWins = "FO Wins",
                TotalFaceoffLosses = "FO Losses",
-               AverageFaceoffWinPercentage = "FO %",
+               AverageFaceoffWinPercentage = "FO % PG",
           ) %>% 
           tab_style(
                style = cell_text(weight = "bold"),

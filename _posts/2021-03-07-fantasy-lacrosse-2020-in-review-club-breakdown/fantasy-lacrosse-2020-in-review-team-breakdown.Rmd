@@ -173,7 +173,7 @@ club_lg_avg_tbl("Waterdogs")
 
 :::::
 
-The Waterdogs 2020 Fantasy Season was surprising in many ways.
+The Waterdogs' 2020 Fantasy Season was surprising in many ways. Most fans, myself included, likely did not expect the newest PLL club to produce the highest team fantasy point total. Being a newly formed expansion team with a very limited amount of time spent on the field together prior to the Group Play games, it was reasonable to expect the Waterdogs to struggle in forming cohesive positional units. This was especially evident in the most team-based position groups of defense, Goalie and Attack. Despite their real life defense not being great, the Waterdogs' fantasy defense was the highest scoring in the league. Coupled with their league leading fantasy faceoff unit that more than doubled the league average of fantasy points for the group, they were able to hid their weak points at Attack and Goalie. This combination led the Dogs to fantasy dominance edging out the Whipsnakes by 10 points. With the exception of the Archer's game, the Waterdogs posted double digit goals and generally created high fantasy points totals (>260 points) for all other 2020 Group Play games. Expand each section below to see how the offensive, defensive and specialist postion groups fared for the Waterdogs.
 
 <details>
   <summary>Offense</summary>
@@ -181,7 +181,7 @@ The Waterdogs 2020 Fantasy Season was surprising in many ways.
 offense_plyr_tbl("Waterdogs", 5, 7)
 ```
 
-The Waterdogs offense
+Kieran McArdle on Attack and Zach Currier on Midfield lead the way for the Waterdogs' fantasy offense in 2020. McArdle secured a offensive high in Fantasy Points by leading the Dogs in points, goals and assists. The Attack unit behind him was relatively underwhelming with Ben Reeves, Ryan Drenner and Wes Berg struggling to find their roles in the Group Play games. Do it all two-way midfielder Currier showed his value snagging groundballs all over the field and posting a balanced stat line as the club's top fantasy Midfielder. Not too far behind Currier, the Waterdogs had a solid group of Connor Kelly, Ben McIntosh and Steven DeNapoli all scoring 25+ Fantasy Points. The Waterdog's offense showed solid and balanced fantasy production in 2020, while no one player stuck out as an elite fantasy option.
 
 </details>
 
@@ -191,8 +191,7 @@ The Waterdogs offense
 defense_plyr_tbl("Waterdogs", 6)
 ```
 
-The Waterdogs defense
-
+The defensive unit for the Waterdogs saw solid fantasy production from their top four defenders. BJ Grill led the club in Caused Turnovers and subsequently led the defense in Fantasy Points. Ryland Rees provided the only scoring production from the Waterdogs' defensive end coupled with healthy number of groundballs. Having four defenders posting 30+ Fantasy Points propelled the Waterdogs to the top spot among defenses in fantasy scoring.  
 
 </details>
 
@@ -202,7 +201,9 @@ The Waterdogs defense
 specialist_plyr_tbl("Waterdogs", 2, 2)
 ```
 
-The Waterdogs specialists
+The Waterdogs' fantasy success came primarily on the backs of their two-headed faceoff monster of Simoneau-Withers. The duo showed that is possible for two faceoff men on the same team to be fantasy relevant. Drew Simoneau and Jake Withers complemented each other very well operating in a 1-2 punch capacity rather than a starter and relief dynamic. Both faceoff guys accumulated 60+ points through similar faceoff percentages with Simoneau tallying a couple goals while Withers tallied a couple caused turnovers. Together Simoneau and Withers formed the highest fantasy scoring faceoff unit in the league and provide a chance at value in that one of them could fall to a later round in a fantasy draft.
+
+The Waterdogs began the Group Play games with Charlie Cipriano in the cage. Cipriano struggled in the first three games, posting a save percentage over 50% only against the Atlas LC. Following his injury he was replaced by rookie Matt DeLuca for the final group play game against the Chaos LC where he saved 55% of shots faced. One thing to be aware of when analyzing DeLuca's fantasy performance - the phantom high scoring game. Goalies and faceoff men accumulate fantasy points primarily based upon their save percentage or faceoff win percentage. Therefore, if a goalie or faceoff man faces an extremely small volume of shots or faceoff opportunities there is a chance that the resulting percentage is greatly skewed high or low. For example, if a goalie enters a game in relief during a blowout and saves or doesn't save the only shot they face, then they could post a 100% or 0% save percentage greatly inflating or deflating their fantasy performance. Matt DeLuca's game against the Chrome where he saved one shot and scored 23 Fantasy Points (72% of his total 2020 Fantasy production), is a prime example of this. Overall, neither of the Waterdogs goalies could be relied on for Fantasy on a game by game basis in 2020.
 
 </details>
 
@@ -232,7 +233,7 @@ club_lg_avg_tbl("Whipsnakes")
 
 :::::
 
-The Whipsnakes 2020 Fantasy Season was exactly what you woukd expect to see. Dominance.
+The defending Champs had the 2020 Fantasy Season you would expect to see. The Whipsnakes went undefeated in Group Play games with a dominant fantasy performance to follow. With their heavy hitting Faceoff and Attack units that outscored the league average by `r filter(fp_pos_tot, Team == "Whipsnakes")$Faceoff - pos_lg_avg_2020$Faceoff` and `r filter(fp_pos_tot, Team == "Whipsnakes")$Attack - pos_lg_avg_2020$Attack` points respectively, the Whips cruised to the second highest 2020 Fantasy Point total. Contributions from their slightly above average goalkeeping, relatively average Midfield play and surprisingly underwhelming Defense rounded out the Whips strong fantasy performance. The real Lacrosse impact of the Whipsnakes defense did not translate to fantasy success as much as the rest of their position groups. This is largely due to the difficulty of capturing the true impact of a dominant defense through observable statistical categories. Games that involved the Whipsnakes largely produced favorable fantasy results with their highest combined fantasy scoring game occurring against the high powered Archers' offense. Fantasy managers who targeted Whipsnakes players in 2020 were largely rewarded with consistent fantasy scoring and some "boom" games.
 
 <details>
   <summary>Offense</summary>
@@ -240,7 +241,10 @@ The Whipsnakes 2020 Fantasy Season was exactly what you woukd expect to see. Dom
 offense_plyr_tbl("Whipsnakes", 4, 11)
 ```
 
-The Whipsnakes offense
+Many people were worried about how the Whipsnakes offense would recover from having multiple weapons taken away during the league's first expansion draft. They quickly put those concerns to rest by doing what they do best - hittin' singles. The 2019 MVP Matt Rambo lived up to the high bar he set for himself, producing as both a distributor and a shooter on his way to an offense leading 82 Fantasy Points. The newcomer (and eventual 2020 MVP) Zed Williams made his presence known early and often notching a team high in goals doubling the next highest scorers. Rounding out the attack unit, Jay Carlson is a textbook underrated crease Attackman snagging groundballs and scoring gritty goals inside and Brad Smith brings versatility running from any spot on the field while bringing infectious energy with his style of play.
+
+The Midfield unit for the WHips was held down by their veteran leader Mike Chanenchuk with his signature two-bombs putting an exclamation point on his well rounded stat line. John Haus also provided some solid Midfield Fantasy production matching Chanenchuk's point total in Group Play. Past these two, the Whipsnakes Midfielders provided strong real-life lacrosse performances filling their individual roles well whether that was offensive leaning or more two-way responsibilities. The stars of the Whips' offense clearly come from their Attack unit and targeting the top 2 brought Fantasy managers a bounty of points with some league winning potential. 
+
 
 </details>
 
@@ -250,7 +254,7 @@ The Whipsnakes offense
 defense_plyr_tbl("Whipsnakes", 5)
 ```
 
-The Whipsnakes defense
+For the Whipsnakes it all starts with their defense. The Club is built from it's back line up. The cohesiveness of their defensive group made up of mostly former Terps has shown their ability to continuously stifle and shout down opposing offenses in their first two seasons in the PLL. However, their defensive dominance did not correlate directly to a strong Fantasy Performance in 2020. The important thing to notice here is that Long Stick Midfielders (LSMs) counted as Defensive players for Fantasy purposes in 2020. If this classification continues in the future, Michael Ehrhardt will always be a Fantasy Defense cheat code. Ehrhardt led the Whips in groundballs and tied for the team lead in caused turnovers. His ability to be a force on the faceoff wings, in transition and on the defensive end make him a strong fantasy asset that can bring fantasy managers consistent scoring. The close defensive trio of Young, Mueller and Dunn had a strong showing on the field im 2020, but it did not translate to Fantasy scoring. 
 
 </details>
 
@@ -260,7 +264,7 @@ The Whipsnakes defense
 specialist_plyr_tbl("Whipsnakes", 1, 1)
 ```
 
-The Whipsnakes specialists
+There were strong rumblings of Nardella for MVP as the 2020 Championship series was coming to a close and looking at Joseph Nardella's stat line it was absolutely justified. Nardella led all players in Fantasy scoring for the 2020 season behind an impressive `r round(filter(summary_2020_plyr, Player == "Joseph Nardella")$AverageFaceoffWinPercentage, 2)` faceoff win percentage per game. A dominant faceoff man like Nardella who also adds value through scrappy groundballs and offensive scoring is Fantasy gold. Managers who selected Nardella at the top of their draft were handsomely rewarded.The Whipsnakes netminder also provided fantasy value through a strong 55+ per game save percentage giving Bernlohr a fantasy floor of 11 points. Bernlohr's 2020 fantasy performance was right on the league average for the position. It tracks that a strong defense out in front can help a goalie by controlling the frequency and type of shots they face. Together Joseph Nardella and Kyle Bernlohr formed a talented specialist group for the Whipsnakes making them one of the most well rounded Fantasy teams in 2020.
 
 </details>
 
@@ -290,7 +294,7 @@ club_lg_avg_tbl("Redwoods")
 
 :::::
 
-The Redwoods 2020 Fantasy Season - pretty average.
+The 2019 runners up came into the 2020 season looking some redemption but ultimately fell flat. The Redwoods were right around the league average in total Fantasy Points, but were not quite a well rounded Fantasy team. Strong performances by the Redwoods Midfield, Defense and Goalie units made up for their less impressive Faceoff and Attack units. As a Club known for playing tough Defense with a star studded Midfield, the Redwoods did not disappoint in translating those strengths to Fantasy success. Games involving the Redwoods generally produced advantageous Fantasy situations in 2020 with their highest Fantasy Point total coming from their matchup with the Atlas where they scored a season high 11 goals. The Redwoods rolled in some areas and left Fantasy managers wanting more in others for the 2020 season. 
 
 <details>
   <summary>Offense</summary>
@@ -298,7 +302,9 @@ The Redwoods 2020 Fantasy Season - pretty average.
 offense_plyr_tbl("Redwoods", 4,10)
 ```
 
-The Redwoods offense
+The Midfield depth of the Redwoods was on full display during the 2020 group play games. From the studs Sergio Perkovic and Myles Jones to the steady vets in Joe Walters and Kyle Harrison the Midfield unit for the Woods lead the league in Fantasy scoring. No one was surprised by Perk dropping a league high number of 2-bombs, but more casual fans may not have seen solid fantasy performances coming from Jack Near and Pat Harbeson. The gritty combination of ground balls and caused turnovers rather than goals and assists propelled Near and Harbeson to 29 and 27 Fantasy Points respectively as the 2nd and 3rd best Redwoods' Midfielders.
+
+The absence of Jules Heningburg was felt on the Redwoods Attack line throughout the 2020 Group Play games. We wish the best for Jules in his return from COVID complications in the 2021 season. Ryder Garnsey led the Woods in goals with 6, while linemate Clarke Petterson led the Attack unit in Fantasy Points behind a balanced goals, assists and groundballs stat line. While no Redwoods Attackman out shined the rest, Petterson and Garnsey provided solid production and we can reasonably expect Matt Kavanaugh to produce better Fantasy numbers given a longer season to operate in.
 
 </details>
 
@@ -308,7 +314,7 @@ The Redwoods offense
 defense_plyr_tbl("Redwoods", 5)
 ```
 
-The Redwoods defense
+The Redwoods defense plays angry. Fantasy managers who targeted Redwoods' Defensemen in 2020 were certainly not angry. John Sexton at LSM and Garrett Epple at close defense led the Defense in Fantasy scoring with 55 and 54 Fantasy points respectively through caused turnovers and groundballs. Both Sexton and Epple made appearances on the "perfect lineup" for the first slate of games in the Championship Series. They proved their value as two top tier defenders and given where they were each drafted it was possible for Fantasy Managers to roster both players. The strategy of taking a top tier defenseman and LSM from the same team makes sense in theory as they occupy different areas of the field and do not necessarily compete for Fantasy Points. Sexton and Epple showed the blueprint for how this strategy can work and will be something to watch for in future seasons as well as similar situations on other Clubs.
 
 </details>
 
@@ -318,7 +324,7 @@ The Redwoods defense
 specialist_plyr_tbl("Redwoods", 2, 1)
 ```
 
-The Redwoods specialists
+The Redwoods clearly missed the dominant presence of Greg Gurenlian at the faceoff X in 2020. The replacements in Peyton Smith and Greg Puskuldjian did not live up to expectations as neither were viable fantasy options. Tim Troutner was a bright spot for the Redwoods in 2020. His 59 Fantasy Points were the highest for a single goalie in 2020 and trailed only the Archer's tandem in total Fantasy Points. Troutner is a great fantasy target that may fall in drafts where more casual fans go after the "bigger" names at the position. With a strong defense in front of him and a great skillset of his own, Troutner has proven his position as a top Fantasy Goalie option.
   
 </details>
 
@@ -348,7 +354,7 @@ club_lg_avg_tbl("Chrome")
 
 :::::
 
-The Chrome's 2020 Fantasy Season was as expected - offensively driven with solid performances from the other position groups.
+The Chrome LC had an incredibly balanced fantasy performance from their Attack, Midfield and Defense position groups in 2020. Each position group contributed nearly 30% of their total Fantasy Points accounting for 86% of the Club's Fantasy production. Looking at the Chrome's offensive weapons, it is no surprise that they put up substantial numbers in 2020. The Chrome were involved in 2 of the 3 highest scoring games of the Championship Series, including the highest combined Fantasy Point scoring game against the Archers LC. The defense of the Chrome also proved to be fantasy relevant behind strong LSM play in addition to their close Defenders. The specialist groups did not show up on the Fantasy scoresheet as some may have expected with the Milk Man scoring nearly half the league average at the faceoff X and veteran John Galloway providing solid but not exceptional fantasy production.
 
 <details>
   <summary>Offense</summary>
@@ -356,7 +362,9 @@ The Chrome's 2020 Fantasy Season was as expected - offensively driven with solid
 offense_plyr_tbl("Chrome", 5, 5)
 ```
 
-The Chrome offense
+The tandem of former Blue Devil attackmen Jordan Wolf and Justin Guterding led the charge for the 2020 Chrome offense. They supported the offense through scoring team highs in goals while also distributing the ball well for a combined 11 assists en route to 50+ Fantasy Points each. Jordan Wolf had a high number of turnovers which is expected for a ball dominant player. Although losing Fantasy Points through turnovers is not ideal, it can be tolerable as long as the player makes up for the lost points through exceptional play in other statistical categories. 
+
+The Chrome LC had a solid trio of Fantasy Midfielders with Jordan MacIntosh, Ned Crotty and Sam Duggan all scoring 30+ Fantasy Points. MacIntosh and Crotty relied on Goals and Assists for the bulk of their fantasy production, while Duggan benefited from a 2-point goal and a couple of caused turnovers. Overall the Chrome offense could be trusted for some solid and consistent Fantasy production, but most likely did not put your Fantasy squad over the top.
 
 </details>
 
@@ -366,7 +374,7 @@ The Chrome offense
 defense_plyr_tbl("Chrome", 7)
 ```
 
-The Chrome defense
+A pair of LSM's coupled with some veteran close defenders propelled the Chrome defense to 149 Fantasy Points in the 2020 Championship Series. Strong performances from Reece Eddy and Eli Salama operating out of the LSM role, showed how two LSMs can operate on the same team. Eddy and Salama were effective at causing turnovers, snagging groundballs and generating a little bit of offense. When a team runs two LSMs it is possible that each can provide Fantasy value in a given game, however it is important to pay close attention to matchups as some may be more advantageous than others. A matchup where both teams like to push transition, one team is particularly bad at defending transition or requires a lot of strong Midfielders to handle could lead to multiple LSMs providing value. Close defenders like Mike Manley and Jesse Bernhardt are locked into a more guaranteed level of volume as they typically do not come off the field. This playing time volume is reflected in their accumulation of both caused turnovers and groundballs. A strong Fantasy team likely features a blend of both LSMs and close defenders (more analysis on this to follow in the positional breakdown post).
 
 </details>
 
@@ -376,7 +384,9 @@ The Chrome defense
 specialist_plyr_tbl("Chrome", 1, 1)
 ```
 
-The Chrome specialists  
+The Milkman aka Connor Farrell roared onto the pro lacrosse scene in 2019 with a strong season that solidified himself as one of the top faceoff specialists in the PLL. He didn't make as much noise during the 2020 posting a modest `r round(filter(summary_2020_plyr, Player == "Connor Farrell")$AverageFaceoffWinPercentage,2)` average faceoff win percentage. Maybe his most surprising stat is a total of zero groundballs in the championship series, implying that the Milkman struggled to win faceoffs to himself. This is a trend that can likely be attributed to a small sample size, but serves as a reminder to Fantasy Managers of the importance of contributing in other statistical areas outside of Faceoff Win Percentage.
+
+The Chrome LC relies on their veteran goaltender John Galloway for consistent production and he delivered. Galloway delivered as he has for years posting a `r round(filter(summary_2020_plyr, Player == "John Galloway")$AverageSavePercentage, 2)` per game save percentage along with a handful of groundballs. His `r filter(summary_2020_plyr, Player == "John Galloway")$TotalFantasyPoints` Fantasy Points were slightly below the league average and sums up his 2020 Fantasy Performance - solid but not flashy. Galloway provided an solid fantasy floor, but likely did not push your Fantasy Squad over the top.
   
 </details>
 
@@ -406,7 +416,7 @@ club_lg_avg_tbl("Archers")
 
 :::::
 
-The Archers' 2020 Fantasy Season
+Many people like myself are likely surprised that the Archers are this low on the 2020 Fantasy scoring list as they found themselves at the bottom of the middle tier of clubs. The Archer's LC is built for offense and their 2020 Fantasy production backed it up. Their star studded Attack line was the second highest Fantasy scoring unit in the league with the Midfield producing a bit under the league average. The Defense and Faceoff units were slightly below the league average as well but generally held their own. While their Goalie tandem produced the highest Fantasy Point total in the league with `r filter(fp_pos_tot, Team == "Archers")$Goalie`. The Archers LC was involved in two of the highest Fantasy scoring games against the Chrome and Whipsnakes respectively. Targeting games that involved the Archers proved to be a valuable Fantasy strategy in 2020 and given their 2021 offseason moves we can expect that trend to continue.
 
 <details>
   <summary>Offense</summary>
@@ -414,7 +424,7 @@ The Archers' 2020 Fantasy Season
 offense_plyr_tbl("Archers", 4, 7)
 ```
 
-The Archers' offense
+Looking at the Archers' offensive Fantasy scoring report, what stands out to you the most? Is it Marcus Holman leading the Club in Groundballs? Rookie Grant Ament scoring more than double the Fantasy Points of the next closest Attackman? Or the nearly unanimous best player in the league, Tom Schreiber, scoring the fourth most Fantasy Points for Archers' Midfielders? While the shortened 2020 Fantasy was kind to some players for others it did not allow them time to iron out the kinks or overcome the variance to reach their expected outputs. Grant Ament was a shining example of the former and Tom Schreiber is a perfect case of the latter. Ament rose to the occasion in his shortened rookie campaign and the first overall pick was "as advertised", posting `r filter(summary_2020_plyr, Player == "Grant Ament")$TotalFantasyPoints` Fantasy Points while trailing only Matt Rambo in total Points and Assists. Schreiber had the second most goals on the Club, but led the Club in Turnovers en route to an unexpected 2020 Fantasy performance. Their is zero doubt about Schreiber's level of talent and it is reasonable to expect that given a larger sample of games he would have been able to overcome the turnovers to produce a higher season Fantasy Point total. Overall the Archers have the type of offense that Fantasy Managers would be happy to have any part of - think Kansity Cheifs in Fantasy Football. With so many weapons and their propensity to move the ball and produce a lot of goals, it is okay if you miss out on the key Archers players early in your draft, but don't leave without at least one.
 
 </details>
 
@@ -424,7 +434,7 @@ The Archers' offense
 defense_plyr_tbl("Archers", 5)
 ```
 
-The Archers' defense
+The Archers' 2020 Fantasy Defense consisted of Matt McMahon causing a ton of turnovers and Scott Ratliff doing his thing at LSM. Other than that no defender contributed much of anything Fantasy wise in the 2020 Championship Series Group Play. McMahon's team leading `r filter(summary_2020_plyr, Player == "Matt McMahon")$TotalCausedTurnovers` caused turnovers coupled with a generous amount of Groundballs propelled him to the top Fantasy spot on this Archers unit. Scott Ratliff is a prototypical LSM notching plenty of Groundballs, causing a few turnovers and generating offense with a few goals and an assist to round out his 2020 stat line. The Archers have shown time and time again that they trust Ratliff to handle the ball in transition and even stay in on some offensive sets to generate a mismatch or catch an opposing Club in a substitution situation. As long as LSMs are classified as Defenders in Fantasy Lacrosse, players like Ratliff who produce all over the field will always provide value at the position.
 
 </details>
 
@@ -434,7 +444,10 @@ The Archers' defense
 specialist_plyr_tbl("Archers", 2, 2)
 ```
 
-The Archers' specialists
+The faceoff duo of Stephen Kelly and Brendan Fowler took about the same number of faceoffs in the 2020 Championship Series with Kelly taking 7 more. Kelly posted a higher per game Faceoff Win Percentage eclipsing the 50% mark while Fowler was at about 40%. As a unit, the Archers faceoff men finished third in the league in scoring but were below the league average in Fantasy Points. They were a distant third coming now where near the totals of the Waterdogs
+and Whipsnakes who were head and shoulders above the other Faceoff units. 
+
+The goalie tandem of Adam Ghitelman and Drew Adams produced the top Fantasy scoring unit in the 2020 Championship Series. The Archers style of playing each goalie for one half of each game works for them as a club and can potentially work for Fantasy Managers as well. Since only one goalie can be in a Fantasy lacrosse lineup, managers would have to choose between Ghitelman and Adams. While they often have the same amount of playing time per game, it cannot be expected that each will have the save Fantasy output. We see that in 2020 Ghitelman was the better Fantasy option of the two with a +50% per game save percentage which allowed to outscore Adams by 18 Fantasy Points. Having to choose between these goaltenders every week could prove to be a headache for Fantasy Managers as it is difficult to predict which one will have the better half. One theory could be to target the keeper that draws second half duties as it could allow the defense to have time to settle in thus allowing the goal to face lower quality shots. Although, an argument could easily be made for the opposite case where the opposing offense is given more time to figure out the defense and therefore have an explosive second half. All in all if Fantasy Managers could play a "Club" goalie and get credit for each Ghitelman and Adams then clearly the Archers' unit would be a top target. However, that is not the case so if choosing to trust either keeper in Fantasy be prepared to take on a little risk, while taking the benefit of a fairly stable floor. Clubs that split goalie duty will continue to subjects for further analysis on Fantasy impact in the years to come.
   
 </details>
 
@@ -465,7 +478,7 @@ club_lg_avg_tbl("Atlas")
 
 :::::
 
-The Atlas' 2020 Fantasy Season was similar to the Club's real-life performance - underwhelming.
+The Atlas' 2020 Fantasy Season was similar to the Club's real-life lacrosse performance - underwhelming. Their Midfield unit was their lone bright spot as the only position group to score above the league average in Fantasy Points trailing only the Redwoods' Midfield. The Attack, Faceoff and Goalie groups for the Atlas looked great on paper coming into the Group Play stage, but disappointed Fantasy Managers across the board. The Defense had plenty of question marks coming into the bubble and were faced with additional adversity when Tucker Durkin was unavailable for the beginning of Group Play due to COVID protocols. The Bulls struggled to find their identity on offense and were inefficient in most of the other areas of the field. Three out of four games involving the Atlas produced around 270 combined Fantasy Points, with their highest Fantasy Point total game coming against the Waterdogs - their most evenly matched game. The 2020 Championship was one to forget for the Atlas, the sections below detail the Fantasy production for each position group.
 
 <details>
   <summary>Offense</summary>
@@ -473,7 +486,9 @@ The Atlas' 2020 Fantasy Season was similar to the Club's real-life performance -
 offense_plyr_tbl("Atlas", 4, 8)
 ```
 
-The Atlas' offense
+The new additions of Rob Pannell and Bryan Costabile made their presence known, each posting strong Fantasy seasons in their first year with the Atlas. Pannell and Eric Law lead the Bulls' Attack line both racking up 40+ Fantasy Points. Pannell was brought on for his passing ability and ball dominant play style from behind the cage that led him to a Club high `r filter(summary_2020_plyr, Player == "Rob Pannell")$TotalAssists` assists. However, he also led the league in Turnovers which can be expected from his play style, but is a trend Fantasy Managers would be sad to see continue. Law provided Fantasy production from scrappy play notching a fair number of Groundballs and Caused Turnovers for an Attackman. The almost universally agreed upon best pure shooter in the league, Ryan Brown, proved true to his calling card tallying `r filter(summary_2020_plyr, Player == "Ryan Brown")$TotalGoals` goals although not much else.
+
+The Midfield unit was a bright spot for the Atlas in 2020. Bryan Costabile led the group as a rookie and promises to be a force in the league for years to come. His ability to play as a two-way Midfielder adds tremendous value to his Fantasy Lacrosse stock. From generating offense, to scooping up groundballs and pushing transition expect Costabile to build on his strong rookie campaign to become a mainstay in the league and Fantasy rosters. Romar Dennis made himself comfortable on his new club posting a solid `r filter(summary_2020_plyr, Player == "Romar Dennis")$FantasyPointsPG` Fantasy Points per game. Fans and Fantasy Managers alike will recall that Paul Rabil had a championship Series to forget, but it would be unwise to count him out over a four game sample given his illustrious career. The remainder of the Atlas midfielders did not provide much Fantasy value over an occasional plug in option.
 
 </details>
 
@@ -483,7 +498,7 @@ The Atlas' offense
 defense_plyr_tbl("Atlas", 6)
 ```
 
-The Atlas' defense
+The Bulls' defense had many question marks entering the 2020 Championship Series. Tucker Durkin's absence to start Group Play was felt throughout the defensive unit. Cade Van Raaphorst was the most valuable Fantasy option on the Atlas defense averaging 10 Fantasy Points per game behind a Club high in GroundBalls and Caused Turnovers. However, his Fantasy production was greatly skewed towards his first two games of the Series where he totaled `r filter(summary_2020_plyr, Player == "Cade Van Raaphorst")$TotalFantasyPoints` Fantasy Points and earned a spot on the Perfect First Slate Team. Fantasy Managers who trusted those numbers to continue into the Second Slate of games were likely frustrated by his lowly 7 Fantasy Points in those two games. 
 
 </details>
 
@@ -493,7 +508,9 @@ The Atlas' defense
 specialist_plyr_tbl("Atlas", 1, 1)
 ```
  
-The Atlas' specialists
+Coming into the 2020 season, Trevor Baptiste was a known commodity while Jack Concannon had shown some promise but had not fully established himself in the league. The Atlas' specialists did not contribute significantly to the club's overall Fantasy production. Baptiste was not as dominant in the bubble as we had been in years past, posting a faceoff win percentage just above 50%. Fantasy players likely had to spend a large amount of draft capital on Baptiste and were largely disappointed when he did not return that high expected value. All signs point to a Baptiste rebound in the next full season of the league as he remains one of the most skilled at the position. An upgrade in his wing play quality is likely needed.
+
+Concannon is known best for using his large frame and quick reflexes to stop shots from close range. His success in saving shots around the crease is well documented, while his struggles with long range shots are equally apparent. It is tough to place his league low 41 fantasy points solely on his shoulders, as his defense did him few favors. Look to see the Atlas make uprgradses at both defense and overall prior to pursuing Concannon in future Fantasy seasons.
   
 </details>
 
@@ -524,7 +541,9 @@ club_lg_avg_tbl("Chaos")
 
 :::::
 
-The Chaos' 2020 Fantasy Season mirrored their real-life group play performance - a struggle.
+The Chaos' 2020 Fantasy Season mirrored their real-life group play performance - a struggle. The club finished last in Total Fantasy Points by a whopping 87.5 points below the Atlas and 217.5 (!!!) points below the top scoring Waterdogs. Their Defense was the only redeemable unit from a Fantasy perspective scoring the second most Fantasy Points in group play. While their Faceoff and Midfield units finished last in Fantasy Points by considerable margins. 
+
+
 
 <details>
   <summary>Offense</summary>
