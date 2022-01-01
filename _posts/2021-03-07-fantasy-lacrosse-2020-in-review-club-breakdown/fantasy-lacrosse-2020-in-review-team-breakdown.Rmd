@@ -543,7 +543,7 @@ club_lg_avg_tbl("Chaos")
 
 The Chaos' 2020 Fantasy Season mirrored their real-life group play performance - a struggle. The club finished last in Total Fantasy Points by a whopping 87.5 points below the Atlas and 217.5 (!!!) points below the top scoring Waterdogs. Their Defense was the only redeemable unit from a Fantasy perspective scoring the second most Fantasy Points in group play. While their Faceoff and Midfield units finished last in Fantasy Points by considerable margins. 
 
-
+The Chaos LC likely disappointed Fantasy Managers in 2020, it is hard to write them off for future Fantasy seasons. As we saw in their 2020 playoff run - the Chaos can play ball. Two of their four group play loses were one goal games. They were one Zed Williams explosion from running the table after going win-less in group play. So, what can we learn here? Given the makeup of the Chaos squad, they need time to gel and get in a groove and when they do...watch out. 
 
 <details>
   <summary>Offense</summary>
@@ -551,7 +551,9 @@ The Chaos' 2020 Fantasy Season mirrored their real-life group play performance -
 offense_plyr_tbl("Chaos", 5, 7)
 ```
 
-The Chaos' offense
+The Chaos are known for their heavy Canadian influence, especially when it comes to their offense. We saw that flare from the top scoring attackmen Curtis Dickson and Josh Byrne racking up 53 and 32 fantasy points respectively. Dickson lead the Club in Fantasy Points, Goals, Assists and Points. Byrne had the arguably the goal of the Series with his "logo" shot, and contributed to a good portion of the club's total offense. Connor Fields' Championship Series outing was surprising to most fans and Fantasy Managers. He did not return the value of the likely high draft pick used with his 19 Fantasy Points. He lead the Club with 6 turnovers, one of the contributing factors to his eventual benching by Andy Towers.
+
+The midfield unit for the Chaos LC, did not reward Fantasy Managers that choose to roster them. This becomes immediately evident when we see Mark Glicini was their top fantasy midfielder. Glicini is a great defensive midfielder, but in a format that favors offensive midfielders it is alarming that he put up more Fantasy Points than any other Chaos midfielder. Chaos needed more contributions on offense from players like Sergio Salcido, Dhane Smith and Jake Froccaro in the group play games.
 
 </details>
 
@@ -561,7 +563,7 @@ The Chaos' offense
 defense_plyr_tbl("Chaos", 7)
 ```
 
-The Chaos' defense
+The Fantasy bright spot for the Chaos LC was their Defensive Unit. They recorded the second most Fantasy Points in the league and accounted for 41% of the Club's total Fantasy Points. Lead by big performances from Jack Rowlett (50.5 FP), Jarrod Neumann (41 FP) and Troy Reh (33 FP) Chaos defenders were effective in causing turnovers and snagging ground balls. Many Fantasy Managers were likely surprised by the overall lack of 2-point goals from the self-proclaimed "Bomb Squad". Troy Reh had the lone 2-bomb for the Club, while Tyson Bell and Jason Noble were the only other defenders to record a Point in group play with an assist each. Overall, several Chaos Defenders were serviceable Fantasy starters that likely did not require a substantial draft capital (outside of Neumann).
 
 </details>
 
@@ -571,7 +573,9 @@ The Chaos' defense
 specialist_plyr_tbl("Chaos", 1, 1)
 ```
 
-The Chaos' specialists
+In terms of specialists in the Chaos Group Play games, it was a tale of two positions. At Faceoff, Tommy Kelly struggled mightly posting a Faceoff Win Percentage of 34.98%. It would not be surprising if the Chaos choose to explore new options at the Faceoff position in the future. Their offseason moves will greatly influence Kelly's future Fantasy value. 
+
+On the other hand, Blaze Riorden once again showed why he is the best goaltender in the league posting 62 saves across four games with a 59.98% save percentage. Blaze consistently makes dazzling saves and precision outlet passes look easy. He is a real life and Fantasy weapon that commands respect as the best at his position in the league for years to come. In Fantasy, Blaze should continue to return the value expected from his draft position and is firmly in "set it and forget it" territory.
   
 </details>
 
