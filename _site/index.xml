@@ -7,7 +7,18 @@
     <description>Exploring lacrosse and other things of interest through an analytical lens with R.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Visualizing Assist Networks in Lacrosse</title>
+      <dc:creator>Dan Overtoom</dc:creator>
+      <link>https://danalytics.blog/posts/2022-08-12-visualizing-assist-networks-in-lacrosse</link>
+      <description>Using the `igraph` and `ggraph` packages to explore and visualize Assist Networks in Men's and Women's D1 lacrosse.</description>
+      <category>Lacrosse</category>
+      <category>Data Viz</category>
+      <guid>https://danalytics.blog/posts/2022-08-12-visualizing-assist-networks-in-lacrosse</guid>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://danalytics.blog/posts/2022-08-12-visualizing-assist-networks-in-lacrosse/plots/preview_ntwk.png" medium="image" type="image/png" width="5199" height="3200"/>
+    </item>
     <item>
       <title>Fantasy Lacrosse 2020 in Review: Club Breakdown</title>
       <dc:creator>Dan Overtoom</dc:creator>

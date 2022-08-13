@@ -1,5 +1,6 @@
 name: "danalytics-blog"
 title: "danalytics"
+theme: theme.css
 description: |
   Exploring lacrosse and other things of interest through an analytical lens with R.
 base_url: https://danalytics.blog
